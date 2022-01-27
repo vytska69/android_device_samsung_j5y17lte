@@ -17,6 +17,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/aosp_j5y17lte.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_j5y17lte-user \
-    aosp_j5y17lte-userdebug \
-    aosp_j5y17lte-eng
+    lineage_j5y17lte-user \
+    lineage_j5y17lte-userdebug \
+    lineage_j5y17lte-eng
